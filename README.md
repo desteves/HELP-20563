@@ -1,5 +1,7 @@
 # HELP-20563
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/303dbc2f-f840-4e3b-922a-2a71758d865f.svg?orgId=679096383598)](https://app.soluble.cloud/repos/details/github.com/desteves/help-20563?orgId=679096383598)  
+
 Examples on how to update arrays and nested arrays in Golang. Currently it uses bson.* but can be easily adopted to used structs.
 
 The updated fields are the emojis.
